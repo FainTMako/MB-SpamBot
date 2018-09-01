@@ -1,3 +1,3 @@
 {
-	'title': 'MB SpamBot'
+	"title": 'MB SpamBot'
 }
